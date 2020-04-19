@@ -1,5 +1,5 @@
 # tic-life
-LD46 entry, a game based on Conway's Game of Life
+LD46 entry with a theme of 'keep it alive', a game based on Conway's Game of Life.
 
 Music by Tiziana Comito
 
